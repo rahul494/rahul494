@@ -1,18 +1,13 @@
-### Hi there 👋
+### 👋 Hi there! 
 
-tbd
+I'm Rahul Sharma, a software developer working for the Canadian Institute for Health Information. My goal is to improve our healthcare system by building solutions that leverage data and analytics. This may be in the form of reports, dashboards, or webpages that allow for more data driven decisions and ultimately, healthier Canadians all over the country. 
 
-<!--
-**rahul494/rahul494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I graduated in 2020 with my Bachelor of Science in Computer Science (with honors) here in Toronto, Canada
+- 🔭 I’m currently working on a personal project that 
+- 🌱 I’m currently learning docker, kubernetes, and CI/CD
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact/find me on:
+---
+- [sharmarah494@gmail.com](sharmarah494@gmail.com)
+- [linkedin.com/in/sharmarah](https://www.linkedin.com/in/sharmarah/)
+- [leetcode.com/sharmarah494](https://leetcode.com/sharmarah494/)
