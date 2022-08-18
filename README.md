@@ -9,6 +9,6 @@ I'm Rahul Sharma, a software developer working for the Canadian Institute for He
 
 ### 📫 Contact/find me on:
 ---
-- [sharmarah494@gmail.com](sharmarah494@gmail.com)
-- [linkedin.com/in/sharmarah](https://www.linkedin.com/in/sharmarah/)
-- [leetcode.com/sharmarah494](https://leetcode.com/sharmarah494/)
+- [<img src="https://toppng.com/uploads/preview/email-icon-vector-circle-11549825158ieiklzfl8g.png" width="20" height="20" />](https://toppng.com/uploads/preview/email-icon-vector-circle-11549825158ieiklzfl8g.png) [sharmarah494@gmail.com](sharmarah494@gmail.com)
+- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" />](https://cdn-icons-png.flaticon.com/512/174/174857.png) [linkedin.com/in/sharmarah](https://www.linkedin.com/in/sharmarah/)
+- [<img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" width="20" height="20" />](https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png) [leetcode.com/sharmarah494](https://leetcode.com/sharmarah494/)
